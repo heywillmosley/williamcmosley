@@ -238,3 +238,6 @@
 [13-Jan-2018 18:52:05 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/startright/public_html/wp-content/plugins/wp-hummingbird/core/modules/class-module-page-caching.php on line 495
 [13-Jan-2018 18:55:13 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/startright/public_html/wp-content/plugins/wp-hummingbird/core/modules/class-module-page-caching.php on line 495
 [13-Jan-2018 18:55:31 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/startright/public_html/wp-content/plugins/wp-hummingbird/core/modules/class-module-page-caching.php on line 495
+[13-Jan-2018 18:57:02 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/startright/public_html/wp-content/plugins/wp-hummingbird/core/modules/class-module-page-caching.php on line 495
+[13-Jan-2018 18:57:15 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/startright/public_html/wp-content/plugins/wp-hummingbird/core/modules/class-module-page-caching.php on line 495
+[13-Jan-2018 18:57:19 UTC] The WC_Cart->fees function is deprecated since version 3.2. Replace with the fees API (WC_Cart::add_fee).
