@@ -1,0 +1,28 @@
+
+.wdc-credits-order #woocommerce-order-items .refund-actions .button.do-manual-refund {
+   display: none;
+}
+
+.wdc-credits-order #woocommerce-order-items .woocommerce-Price-currencySymbol {
+    display: none;
+}
+
+.wdc-credits-order #woocommerce-order-items .wc-order-refund-amount {
+     display: none;
+}
+
+.wdc-credits-order #woocommerce-order-items #order_refunds .wc-order-edit-line-item .wc-order-edit-line-item-actions{
+    display: none;
+}
+
+.wdc-credits-order.wdc-credits-refunded #woocommerce-order-items .add-items .button.refund-items {
+ display: none;
+}
+
+.wdc-credits-order #woocommerce-order-items .woocommerce_order_items_wrapper table.woocommerce_order_items .item_cost .wc-order-item-discount,
+.wdc-credits-order #woocommerce-order-items .woocommerce_order_items_wrapper table.woocommerce_order_items .line_cost .wc-order-item-discount
+{
+    display: none;
+}
+
+

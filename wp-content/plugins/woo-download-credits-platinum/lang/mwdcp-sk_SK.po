@@ -1,0 +1,516 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Download Credits Platinum\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-01-06 13:29+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Team Muth.co <pankaj.iba@gmail.com>\n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woo-download-credits-platinum.php:70 woo-download-credits-platinum.php:101
+#: woo-download-credits-platinum.php:1686
+#: woo-download-credits-platinum.php:2064
+#: woo-download-credits-platinum.php:2111
+#: woo-download-credits-platinum.php:2436
+msgid "Download Credits"
+msgstr "Na stiahnutie Credits"
+
+#: woo-download-credits-platinum.php:71
+msgid "Have your customers pay with their Download Credits balance."
+msgstr "Majú vaši zákazníci zaplatia s ich stiahnutie Kredity rovnováhe."
+
+#: woo-download-credits-platinum.php:91 woo-download-credits-platinum.php:92
+msgid "Enable Download Credits"
+msgstr "Aktivovať stiahnutie Kredity"
+
+#: woo-download-credits-platinum.php:98
+msgid "Title"
+msgstr "nadpis"
+
+#: woo-download-credits-platinum.php:100
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "Platba opis metódy, ktoré zákazník uvidí na pokladni."
+
+#: woo-download-credits-platinum.php:105
+msgid "Description"
+msgstr "popis"
+
+#: woo-download-credits-platinum.php:107
+msgid "Payment method description that the customer will see on your website."
+msgstr ""
+"Platba opis metódy, ktoré zákazník uvidí na svojich webových stránkach."
+
+#: woo-download-credits-platinum.php:108
+msgid "Pay using your Download Credits."
+msgstr "Platiť za použitia sťahovanie úverov."
+
+#: woo-download-credits-platinum.php:116 woo-download-credits-platinum.php:172
+#: woo-download-credits-platinum.php:593 woo-download-credits-platinum.php:891
+#: woo-download-credits-platinum.php:916 woo-download-credits-platinum.php:927
+#: woo-download-credits-platinum.php:1362
+#: woo-download-credits-platinum.php:1585
+#: woo-download-credits-platinum.php:1696
+#: woo-download-credits-platinum.php:2428
+msgid "Credits"
+msgstr "Credits"
+
+#: woo-download-credits-platinum.php:118 woo-download-credits-platinum.php:135
+#: woo-download-credits-platinum.php:144
+msgid "Payment error"
+msgstr "chyba platby"
+
+#: woo-download-credits-platinum.php:118
+msgid "You can not purchase  Download"
+msgstr "Nemôžete kúpiť Download"
+
+#: woo-download-credits-platinum.php:118
+msgid "with Download"
+msgstr "s Download"
+
+#: woo-download-credits-platinum.php:118 woo-download-credits-platinum.php:135
+msgid "Please choose another payment method."
+msgstr "Prosím, vyberte iný spôsob platby."
+
+#: woo-download-credits-platinum.php:118 woo-download-credits-platinum.php:1725
+msgid "IMPORTANT: To successfully purchase Download"
+msgstr "Dôležité: Ak chcete úspešne nákup Download"
+
+#: woo-download-credits-platinum.php:118 woo-download-credits-platinum.php:1726
+msgid "please make sure there are"
+msgstr "uistite sa, že existujú"
+
+#: woo-download-credits-platinum.php:118 woo-download-credits-platinum.php:1726
+msgid "no other products"
+msgstr "žiadne iné produkty"
+
+#: woo-download-credits-platinum.php:118 woo-download-credits-platinum.php:1726
+msgid "in your cart upon checkout"
+msgstr "v košíku na pokladni"
+
+#: woo-download-credits-platinum.php:135
+msgid "You can not purchase product without"
+msgstr "Nemôžete kúpiť výrobok bez"
+
+#: woo-download-credits-platinum.php:135
+msgid "set"
+msgstr "sada"
+
+#: woo-download-credits-platinum.php:144
+msgid "Insufficient"
+msgstr "nedostatočný"
+
+#: woo-download-credits-platinum.php:144
+msgid "Please purchase more"
+msgstr "Nutné zakúpiť viac"
+
+#: woo-download-credits-platinum.php:144
+msgid "or use a different payment method."
+msgstr "alebo použiť iný spôsob platby."
+
+#: woo-download-credits-platinum.php:156
+msgid "System error"
+msgstr "Systémová chyba"
+
+#: woo-download-credits-platinum.php:156
+msgid ""
+"There was an error procesing the payment. Please try another payment method."
+msgstr "Došlo k chybe spracovávate platbu. Skúste prosím iný spôsob platby."
+
+#: woo-download-credits-platinum.php:159
+msgid "Payment completed use Download"
+msgstr "Platba dokončené využitie na stiahnutie"
+
+#: woo-download-credits-platinum.php:174
+msgid "Your Current Balance"
+msgstr "Vaše aktuálny zostatok"
+
+#: woo-download-credits-platinum.php:174 woo-download-credits-platinum.php:1364
+#: woo-download-credits-platinum.php:1366
+msgid "Buy More"
+msgstr "Kúp viac"
+
+#: woo-download-credits-platinum.php:333 woo-download-credits-platinum.php:538
+#: woo-download-credits-platinum.php:713 woo-download-credits-platinum.php:1009
+#: woo-download-credits-platinum.php:1037
+#: woo-download-credits-platinum.php:1075
+#: woo-download-credits-platinum.php:1298
+#: woo-download-credits-platinum.php:1300
+#: woo-download-credits-platinum.php:1307
+#: woo-download-credits-platinum.php:1338
+#: woo-download-credits-platinum.php:1345
+msgid "or"
+msgstr "alebo"
+
+#: woo-download-credits-platinum.php:342
+msgid "Cost( in Credits)"
+msgstr ""
+
+#: woo-download-credits-platinum.php:571
+msgid "View Cart"
+msgstr "Pohľadnica"
+
+#: woo-download-credits-platinum.php:571
+msgid "You cannot add another"
+msgstr "Nemôžete pridať ďalšie"
+
+#: woo-download-credits-platinum.php:571
+msgid "to your cart."
+msgstr "do košíka."
+
+#: woo-download-credits-platinum.php:589
+msgid "credit product can not be added"
+msgstr "úverový produkt nemôže byť pridaný"
+
+#: woo-download-credits-platinum.php:596 woo-download-credits-platinum.php:1665
+msgid "Non-credit products have been removed"
+msgstr "Non-úverové produkty boli odstránené"
+
+#: woo-download-credits-platinum.php:599
+msgid "While buying"
+msgstr "pri nákupe"
+
+#: woo-download-credits-platinum.php:599
+msgid "you cannot buy non-credit products"
+msgstr "môžete si kúpiť non-úverové produkty"
+
+#: woo-download-credits-platinum.php:631
+msgid "Customer Credits Details"
+msgstr "Zákazník Kredity Podrobnosti"
+
+#: woo-download-credits-platinum.php:635
+msgid "Customer Download Credits"
+msgstr "Zákazník si môžete stiahnuť Credits"
+
+#: woo-download-credits-platinum.php:641
+msgid "Enter New Credits Balance"
+msgstr "Vstup do nových úverov Balance"
+
+#: woo-download-credits-platinum.php:644
+msgid "Please enter New Credits Balance to customer account"
+msgstr "Prosím, zadajte nových úverov Balance na účet zákazníka"
+
+#: woo-download-credits-platinum.php:785 woo-download-credits-platinum.php:1603
+#: woo-download-credits-platinum.php:1717
+#: woo-download-credits-platinum.php:2580
+msgid "Buy Now"
+msgstr "Kúpte teraz"
+
+#: woo-download-credits-platinum.php:811 woo-download-credits-platinum.php:919
+#: woo-download-credits-platinum.php:930
+msgid "Credit"
+msgstr "úver"
+
+#: woo-download-credits-platinum.php:816
+msgid "is deleted successfully"
+msgstr "Je úspešne zmazaný"
+
+#: woo-download-credits-platinum.php:821
+msgid "there was some error deleting"
+msgstr "tam bola nejaká chyba mazanie"
+
+#: woo-download-credits-platinum.php:827
+msgid "does not exist"
+msgstr "neexistuje"
+
+#: woo-download-credits-platinum.php:854
+msgctxt "post type general name"
+msgid "Credits"
+msgstr "Credits"
+
+#: woo-download-credits-platinum.php:855
+msgctxt "post type singular name"
+msgid "Credit"
+msgstr "úver"
+
+#: woo-download-credits-platinum.php:856
+msgctxt "admin menu"
+msgid "Credits"
+msgstr "Credits"
+
+#: woo-download-credits-platinum.php:857
+msgctxt "add new on admin bar"
+msgid "Credit"
+msgstr "úver"
+
+#: woo-download-credits-platinum.php:858
+msgctxt "credit"
+msgid "Add New"
+msgstr "Pridať nové"
+
+#: woo-download-credits-platinum.php:859
+msgid "Add New Credit"
+msgstr "Pridať nový kredit"
+
+#: woo-download-credits-platinum.php:860
+msgid "New Credit"
+msgstr "new Credit"
+
+#: woo-download-credits-platinum.php:861
+msgid "Edit Credit"
+msgstr "edit Credit"
+
+#: woo-download-credits-platinum.php:862
+msgid "View Credit"
+msgstr "pohľad Credit"
+
+#: woo-download-credits-platinum.php:863
+msgid "All Credits"
+msgstr "všetky Credits"
+
+#: woo-download-credits-platinum.php:864
+msgid "Search Credits"
+msgstr "hľadanie Credits"
+
+#: woo-download-credits-platinum.php:865
+msgid "Parent Credits:"
+msgstr "Rodičovské Kredity:"
+
+#: woo-download-credits-platinum.php:866
+msgid "No credits found."
+msgstr "Neboli nájdené žiadne úvery."
+
+#: woo-download-credits-platinum.php:867
+msgid "No credits found in Trash."
+msgstr "Žiadne úvery našiel v koši."
+
+#: woo-download-credits-platinum.php:895
+msgid " Remaining"
+msgstr ""
+
+#: woo-download-credits-platinum.php:958 woo-download-credits-platinum.php:985
+#: woo-download-credits-platinum.php:987 woo-download-credits-platinum.php:1312
+#: woo-download-credits-platinum.php:1349
+msgid "for"
+msgstr "pre"
+
+#: woo-download-credits-platinum.php:1364
+#: woo-download-credits-platinum.php:1687
+msgid "You have"
+msgstr "Máš"
+
+#: woo-download-credits-platinum.php:1364
+msgid "remaining"
+msgstr "zostávajúce"
+
+#: woo-download-credits-platinum.php:1591
+#: woo-download-credits-platinum.php:1705
+#: woo-download-credits-platinum.php:2145
+#: woo-download-credits-platinum.php:2495
+msgid "Name"
+msgstr "Názov"
+
+#: woo-download-credits-platinum.php:1593
+#: woo-download-credits-platinum.php:1707
+#: woo-download-credits-platinum.php:2501
+msgid "Price"
+msgstr "cena"
+
+#: woo-download-credits-platinum.php:1687
+msgid "Download Credits."
+msgstr "Download Credits."
+
+#: woo-download-credits-platinum.php:1701
+msgid "Buy Download"
+msgstr ""
+
+#: woo-download-credits-platinum.php:1744
+#: woo-download-credits-platinum.php:1809
+msgid "Credit Required For Download "
+msgstr "Credit Povinné k stiahnutiu"
+
+#: woo-download-credits-platinum.php:1747
+msgid "The credits for this product to download."
+msgstr "Kredity tohto produktu na prevzatie."
+
+#: woo-download-credits-platinum.php:1765
+msgid "Credit Required to Participate "
+msgstr ""
+
+#: woo-download-credits-platinum.php:1768
+msgid "The credits for Participate."
+msgstr ""
+
+#: woo-download-credits-platinum.php:1795
+msgid "Credits Plan"
+msgstr ""
+
+#: woo-download-credits-platinum.php:1798
+msgid "Select credit plan with this subscription."
+msgstr ""
+
+#: woo-download-credits-platinum.php:1812
+msgid "Enter Credit Required For Download here."
+msgstr "Vstúpiť Credit požadované pre stiahnutie tu."
+
+#: woo-download-credits-platinum.php:2063
+msgid "Download Credits Options"
+msgstr "Možnosti stiahnutia Kredity"
+
+#: woo-download-credits-platinum.php:2066
+#: woo-download-credits-platinum.php:2067
+msgid "Edit Credits"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2118
+msgid "Manage User Credits"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2127
+#: woo-download-credits-platinum.php:2128
+msgid "Search"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2142
+msgid "User ID"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2148
+#: woo-download-credits-platinum.php:2498
+msgid "No. of Credits"
+msgstr "počet úverov"
+
+#: woo-download-credits-platinum.php:2161
+msgid "Number of Users Per Page"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2170
+msgid "Update"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2442
+#: woo-download-credits-platinum.php:2667
+msgid "Click to toggle"
+msgstr "Kliknutím prepnete"
+
+#: woo-download-credits-platinum.php:2443
+msgid "Manage Download Credits Below"
+msgstr "Správa stiahnutie Kredity Nižšie"
+
+#: woo-download-credits-platinum.php:2467
+#: woo-download-credits-platinum.php:2540
+#: woo-download-credits-platinum.php:2565
+msgid "Remove"
+msgstr "odstrániť"
+
+#: woo-download-credits-platinum.php:2477
+msgid "Credit Expiry Days"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2478
+msgid "Global Expiry Days"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2483
+msgid "Add New"
+msgstr "Pridať nové"
+
+#: woo-download-credits-platinum.php:2492
+msgid "Credit ID"
+msgstr "Credit ID"
+
+#: woo-download-credits-platinum.php:2504
+msgid "Expiry Days"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2571
+msgid "Credit Buy Url"
+msgstr "Splátky Cena web"
+
+#: woo-download-credits-platinum.php:2574
+msgid "you can create credit buy url by using below shortcode replacing"
+msgstr "môžete vytvoriť Splátky Cena url pomocou nižšie SHORTCODE nahradenie"
+
+#: woo-download-credits-platinum.php:2574
+msgid "with corresponding credit ID from above table"
+msgstr "s príslušnou úverovou ID z vyššie uvedenej tabuľky"
+
+#: woo-download-credits-platinum.php:2577
+msgid "you can also change link text by using"
+msgstr "môžete tiež zmeniť text odkazu pomocou"
+
+#: woo-download-credits-platinum.php:2577
+msgid "parameter"
+msgstr "parameter"
+
+#: woo-download-credits-platinum.php:2601
+msgid "Settings"
+msgstr "nastavenie"
+
+#: woo-download-credits-platinum.php:2606
+msgid "Hide $ Prices for Credit Products"
+msgstr "Hide $ Predajná cena o úverové produkty"
+
+#: woo-download-credits-platinum.php:2611
+msgid "Hide Other Paymet Gateways"
+msgstr "Skryť ostatné Paymet brány"
+
+#: woo-download-credits-platinum.php:2617
+msgid "WooCommerce Subscriptions"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2622
+msgid "Reset Credits on Renewal"
+msgstr ""
+
+#: woo-download-credits-platinum.php:2629
+msgid "Manage Labels Here"
+msgstr "Správa štítkov Tu"
+
+#: woo-download-credits-platinum.php:2640
+msgid "For Credit"
+msgstr "pre kredity"
+
+#: woo-download-credits-platinum.php:2646
+msgid "For Credits"
+msgstr "pre Credits"
+
+#: woo-download-credits-platinum.php:2653
+msgid "Save"
+msgstr "uložiť"
+
+#: woo-download-credits-platinum.php:2658
+msgid "Fix Reports"
+msgstr "fix Reports"
+
+#: woo-download-credits-platinum.php:2668
+msgid "About"
+msgstr "o tom"
+
+#: woo-download-credits-platinum.php:2670
+msgid "Documentation"
+msgstr "dokumentácia"
+
+#: woo-download-credits-platinum.php:2671
+msgid "Tutorial Video"
+msgstr "video Tutorial"
+
+#: woo-download-credits-platinum.php:2672
+msgid "Twitter"
+msgstr "cvrlikání"
+
+#~ msgid "Remaining"
+#~ msgstr "zostávajúce"
+
+#~ msgctxt "mwdcp"
+#~ msgid "Credits"
+#~ msgstr "Credits"
+
+#~ msgctxt "mwdcp"
+#~ msgid "Buy Download"
+#~ msgstr "kúpiť Download"

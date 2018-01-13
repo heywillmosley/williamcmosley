@@ -1,0 +1,58 @@
+/*-------------------------------- WP overrides --------------------------------*/
+.widget-content input[type="text"],
+.widget-content select,
+.widget-content button {
+  border-spacing: 0;
+  width: 100%;
+  clear: both;
+}
+
+.widget-content .form-group {
+  margin: 10px 0 0;
+}
+
+.widget-content .form-group label {
+  vertical-align: baseline;
+}
+
+.widget-content .form-group img {
+  vertical-align: middle;
+}
+
+.widget-control-actions {
+  position: relative;
+}
+
+/*-------------------------------- Commons --------------------------------*/
+.rplg-widget {
+  margin: 10px 0;
+}
+
+.rplg-options-toggle {
+  padding: 10px;
+  margin: 10px 0 0;
+  cursor: pointer;
+  border: 1px solid #dbdbdb;
+  background: #eee url('../img/button-down-black.svg') no-repeat right;
+}
+
+.rplg-options {
+  padding: 0px 4px;
+}
+
+.rplg-disabled label,
+.rplg-disabled small {
+  opacity: .7;
+}
+
+.rplg-pro {
+  color: #fff;
+  padding: 6px;
+  border-radius: 3px;
+  background: #00bf54;
+}
+
+.rplg-pro a {
+  color: #fff;
+  text-decoration: underline;
+}

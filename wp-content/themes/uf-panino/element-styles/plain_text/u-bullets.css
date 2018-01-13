@@ -1,0 +1,9 @@
+#page .u-bullets.upfront-plain_txt p, #page .u-bullets .upfront-plain_txt span {
+    color: #ufc0;
+    max-width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+
+/* 378641-1509894398-au */
