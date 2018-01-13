@@ -1,0 +1,74 @@
+body.post-type-insertpostads #misc-publishing-actions,
+body.post-type-insertpostads #minor-publishing-actions {
+	display: none;
+}
+.postbox > .plugin-card.vi-card{
+	/*    border: 3px solid #9a02c0;*/
+		    float: none;
+    width: 100%;
+    margin: 0;
+	border:0;
+}
+.vi-list{
+	    list-style-type: disc;
+    font-size: 12px;
+    padding-left: 20px;
+    line-height: 12px;
+}
+.vi-card #insert_ads_vi_earnings_wrapper #insert_ads_vi_earnings{
+	    width: 25% !important;
+    min-width: 20% !important;
+}
+.vi-card #insert_ads_vi_earnings_wrapper #insert_ads_vi_chart_wrapper{
+	width:75% !important;
+	height:auto !important;
+}
+.insert_ads_notice {
+	    border-left-color: #000000 !important;
+}
+.ui-dialog, .ui-dialog-buttonpane{
+	    background: #f0f0f0 !important;
+}
+#insert_ads_vi_login_dialog	.smartlogixSectionTitle{
+	background: #f0f0f0;
+}
+#insert_ads_vi_signup_dialog + .ui-dialog-buttonpane{
+	display:none;
+}
+div[aria-describedby="insert_ads_vi_signup_dialog"] .ui-dialog-titlebar{
+	background: transparent;
+    border: 0;
+    padding: 0;
+}
+div[aria-describedby="insert_ads_vi_signup_dialog"] .ui-dialog-titlebar > span{
+	display:none;
+}
+
+div[aria-describedby="insert_ads_vi_signup_dialog"] .ui-dialog-titlebar button{
+	top: 20px;
+    z-index: 9999;
+    right: 10px;
+}
+.ui-button-text, .ui-button{
+	outline:none;
+}
+.pwithcheck{
+	display:none !important;
+}
+.insert_ads_vi_code_data_wrapper ~ .pwithcheck{
+	display:block !important;
+}
+#sucdial{
+	    position: fixed;
+    width: 30%;
+    font-size: 20px;
+    background: white;
+    text-align: center;
+    padding: 30px 0px;
+    box-shadow: 0px 0px 10px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    top: 40%;
+    z-index: 99999;
+}

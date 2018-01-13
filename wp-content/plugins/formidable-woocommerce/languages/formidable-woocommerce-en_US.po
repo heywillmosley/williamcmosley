@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Formidable WooCommerce v1.02\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/woocommerce-formidableforms-product-addons\n"
+"POT-Creation-Date: 2015-03-12 20:22:57+00:00\n"
+"PO-Revision-Date: 2016-02-10 22:08:10+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/class-wc-formidable-admin.php:39
+#@ formidable-woocommerce
+msgid "Choose Form"
+msgstr ""
+
+#: classes/class-wc-formidable-admin.php:60
+#@ formidable-woocommerce
+msgid "None"
+msgstr ""
+
+#: classes/class-wc-formidable-admin.php:128
+#@ formidable-woocommerce
+msgid "Your form doesn&apos;t contain a total field. You must add a total field to the form for it to display on the front end."
+msgstr ""
+
+#: classes/class-wc-formidable-product.php:118
+#@ formidable-woocommerce
+msgid "Select Options"
+msgstr ""
+
+#: classes/class-wc-formidable-product.php:647
+#@ formidable-woocommerce
+msgid "Total:"
+msgstr ""
+
+#: formidable-woocommerce.php:119
+#@ formidable-woocommerce
+msgid "WooCommerce Formidable Forms Product Addons requires both Formidable Forms & WooCommerce to be active."
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: formidable-woocommerce.php:0
+#@ formidable-woocommerce
+msgid "Use Formidable Forms on individual WooCommerce product pages to create customizable products. Requires the Formidable Forms plugin."
+msgstr ""
+
+#: classes/class-wc-formidable-product.php:100
+#@ formidable-woocommerce
+msgid "Oops! Nothing was submitted"
+msgstr ""
+
+#: classes/class-wc-formidable-product.php:671
+#@ formidable-woocommerce
+msgid "WooCommerce payment"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: formidable-woocommerce.php:0
+#@ formidable-woocommerce
+msgid "Formidable WooCommerce"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: formidable-woocommerce.php:0
+#@ formidable-woocommerce
+msgid "http://formidablepro.com"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: formidable-woocommerce.php:0
+#@ formidable-woocommerce
+msgid "Strategy11"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: formidable-woocommerce.php:0
+#@ formidable-woocommerce
+msgid "http://strategy11.com"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: formidable-woocommerce.php:0
+#@ formidable-woocommerce
+msgid "1.02"
+msgstr ""
+

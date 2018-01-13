@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^email\.mail1\.startrighttoday\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.email\.mail1\.startrighttoday\.com$
+RewriteRule ^/?$ "http\:\/\/mail1\.startrighttoday\.com" [R=301,L]
+

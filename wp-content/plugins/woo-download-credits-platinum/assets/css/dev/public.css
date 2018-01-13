@@ -1,0 +1,31 @@
+.imp-msg{
+    display: inline-block;
+    float: left;
+    margin: -4px 0 0;
+    padding: 0 0 0 10px;
+}
+
+.imp-msg a{text-decoration: underline; }
+
+
+.entry-content .credit-buybtn {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #e05d22 0%, #d94412 100%) repeat scroll 0 0;
+    border-color: -moz-use-text-color -moz-use-text-color #b93207;
+    border-image: none;
+    border-radius: 2px;
+    border-style: none none solid;
+    border-width: medium medium 3px;
+    color: #fff;
+    display: inline-block;
+    padding: 11px 24px 10px;
+    text-decoration: none;
+}
+
+.entry-content .credit-buybtn:hover {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #ed6a31 0%, #e55627 100%) repeat scroll 0 0;
+    outline: medium none; color: #fff;
+}

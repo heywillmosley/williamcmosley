@@ -1,0 +1,52 @@
+<!-- A 2x5 Grid Template Layout. It can be configured by the two input fields below -->
+{{#Items}} <!--Section tag for iterating through the list of items-->
+<div class="aalb-pg-ad-unit" id="{{ID}}">
+    <h2 class="aalb-pg-ad-header">{{#AalbHeader}}{{#MarketplaceUS}}Products from Amazon.com{{/MarketplaceUS}}{{#MarketplaceFR}}Produits disponibles sur Amazon.fr  {{/MarketplaceFR}}{{#MarketplaceIT}}Acquista su Amazon.it{{/MarketplaceIT}}{{#MarketplaceDE}}Produkte von Amazon.de{{/MarketplaceDE}}{{#MarketplaceES}}Producto disponible en Amazon.es{{/MarketplaceES}}{{#MarketplaceBR}}Products from Amazon.com.br{{/MarketplaceBR}}{{#MarketplaceCA}}Products from Amazon.ca{{/MarketplaceCA}}{{#MarketplaceCN}}Products from Amazon.cn{{/MarketplaceCN}}{{#MarketplaceIN}}Products from Amazon.in{{/MarketplaceIN}}{{#MarketplaceJP}}Products from Amazon.co.jp{{/MarketplaceJP}}{{#MarketplaceMX}}Products from Amazon.com.mx{{/MarketplaceMX}}{{#MarketplaceUK}}Products from Amazon.co.uk{{/MarketplaceUK}}{{/AalbHeader}}</h2> <!-- Title of the ad localized according to the marketplace picked from the AalbHeader tag -->
+    <div class="aalb-pg-wrapper">
+      <div class="aalb-pg-product-container">
+        <ul class="aalb-pg-product-list">
+          {{#Item}} <!-- Section tag for beginning of information on one item -->
+            {{#aalb}} <!-- Section tag for picking up information on attributes for the item -->
+              <li class="aalb-pg-product">
+                <div class="aalb-pg-product-image">
+                  <div class="aalb-pg-product-image-wrapper">
+                    <a href="{{DetailPageURL}}" title="{{Title}}" target="_blank" rel="nofollow"> <!--Individual attributes are provided as variable tags as {{[[attribute]]}}. Check documentation for list of supported variable tags.-->
+                      <img src="{{MediumImageURL}}" srcset="{{LargeImageURL}}" alt="{{Title}}" />
+                      {{#SavingPercent}} <!-- The section tag ensures that percentage savings is displayed only if it is available -->
+                        <span class="aalb-pg-percent-off">
+                          -{{SavingPercent}}%
+                        </span>
+                      {{/SavingPercent}}
+                    </a>
+                  </div>
+                </div>
+                <div class="aalb-pg-product-details">
+                  <div class="aalb-pg-product-title">
+                    <a href="{{DetailPageURL}}" title="{{Title}}" target="_blank" rel="nofollow">
+                      {{Title}}
+                    </a>
+                  </div>
+                  <div class="aalb-pg-product-offer-price">
+                    <!-- The section tag for different marketplaces ensures localization of static text.  -->
+                    {{#MarketplaceUS}}Price{{/MarketplaceUS}}{{#MarketplaceFR}}Prix{{/MarketplaceFR}}{{#MarketplaceIT}}Prezzo{{/MarketplaceIT}}{{#MarketplaceDE}}Preis{{/MarketplaceDE}}{{#MarketplaceES}}Precio{{/MarketplaceES}}{{#MarketplaceBR}}Price{{/MarketplaceBR}}{{#MarketplaceCA}}Price{{/MarketplaceCA}}{{#MarketplaceCN}}Price{{/MarketplaceCN}}{{#MarketplaceIN}}Price{{/MarketplaceIN}}{{#MarketplaceJP}}Price{{/MarketplaceJP}}{{#MarketplaceMX}}Price{{/MarketplaceMX}}{{#MarketplaceUK}}Price{{/MarketplaceUK}}: <span class="aalb-pg-product-offer-price-value">{{CurrentPrice}}</span>
+                  </div>
+                  {{#StrikePrice}} <!-- The section tag ensures that strike price is displayed only if it is available -->
+                    <div class="aalb-pg-product-list-price">
+                      <!-- The section tag for different marketplaces ensures localization of static text.  -->
+                      {{#MarketplaceUS}}Was{{/MarketplaceUS}}{{#MarketplaceFR}}Ancien prix{{/MarketplaceFR}}{{#MarketplaceIT}}Da{{/MarketplaceIT}}{{#MarketplaceDE}}statt{{/MarketplaceDE}}{{#MarketplaceES}}Precio recomendado{{/MarketplaceES}}{{#MarketplaceBR}}Was{{/MarketplaceBR}}{{#MarketplaceCA}}Was{{/MarketplaceCA}}{{#MarketplaceCN}}Was{{/MarketplaceCN}}{{#MarketplaceIN}}Was{{/MarketplaceIN}}{{#MarketplaceJP}}Was{{/MarketplaceJP}}{{#MarketplaceMX}}Was{{/MarketplaceMX}}{{#MarketplaceUK}}Was{{/MarketplaceUK}}: <span class="aalb-pg-product-list-price-value">{{StrikePrice}}</span>
+                    </div>
+                  {{/StrikePrice}}
+                  {{#Prime}} <!-- The section tag ensures that prime icon is displayed only if it is available -->
+                    <div class="aalb-pg-product-prime-icon">
+                        <i class="icon-prime-all"></i>
+                    </div>
+                  {{/Prime}}
+                </div>
+              </li>
+            {{/aalb}}
+          {{/Item}}
+        </ul>
+      </div>
+    </div>
+  </div>
+{{/Items}}

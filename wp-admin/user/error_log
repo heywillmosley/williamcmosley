@@ -1,0 +1,40 @@
+[24-Nov-2017 17:28:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/startright/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/startright/public_html/wp-admin/user/menu.php on line 10
+[24-Nov-2017 17:32:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/startright/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/startright/public_html/wp-admin/user/menu.php on line 10
+[25-Nov-2017 01:12:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/startright/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/startright/public_html/wp-admin/user/menu.php on line 10
+[25-Nov-2017 01:21:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/startright/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/startright/public_html/wp-admin/user/menu.php on line 10
+[25-Nov-2017 05:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/startright/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/startright/public_html/wp-admin/user/menu.php on line 10
+[25-Nov-2017 05:32:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/startright/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/startright/public_html/wp-admin/user/menu.php on line 10
+[25-Nov-2017 09:37:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/startright/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/startright/public_html/wp-admin/user/menu.php on line 10
+[25-Nov-2017 09:41:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/startright/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/startright/public_html/wp-admin/user/menu.php on line 10
+[26-Nov-2017 02:34:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/startright/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/startright/public_html/wp-admin/user/menu.php on line 10
+[26-Nov-2017 02:34:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/startright/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/startright/public_html/wp-admin/user/menu.php on line 10

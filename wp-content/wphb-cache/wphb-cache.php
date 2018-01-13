@@ -1,0 +1,1 @@
+{"page_types":["home","page","single","archive","category","tag","product"],"settings":{"logged_in":0,"url_queries":0,"clear_update":1,"debug_log":0},"exclude":{"url_strings":["wp-.*\\.php","index\\.php","xmlrpc\\.php","\/"],"user_agents":["bot","is_archive","slurp","crawl","spider","Yandex"]}}

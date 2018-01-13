@@ -1,0 +1,789 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Download Credits Platinum\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-02-17 19:03+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Team Muth.co <pankaj.iba@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: am-license-menu.php:130
+msgid " Activation"
+msgstr "Ativação"
+
+#: am-license-menu.php:131
+msgid " API Key Activation"
+msgstr "Ativação de chave de API"
+
+#: am-license-menu.php:132 am-license-menu.php:358
+msgid "API Key Activation"
+msgstr "Ativação de chave de API"
+
+#: am-license-menu.php:133
+msgid "API Key Deactivation"
+msgstr "Desativação de chave API"
+
+#: am-license-menu.php:292
+#, php-format
+msgid ""
+"The <strong>%s</strong> API Key has not been activated, so the %s is "
+"inactive! %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+
+#: am-license-menu.php:309
+#, php-format
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+
+#: am-license-menu.php:341 am-license-menu.php:345
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: am-license-menu.php:362
+msgid "API Key Status"
+msgstr "Status da chave da API"
+
+#: am-license-menu.php:366
+msgid "API Key"
+msgstr "Chave API"
+
+#: am-license-menu.php:370
+msgid "API Email"
+msgstr "Email da API"
+
+#: am-license-menu.php:376
+msgid "API Deactivation"
+msgstr "Desactivação da API"
+
+#: am-license-menu.php:380
+msgid "Deactivate API Key"
+msgstr "Desativar a chave da API"
+
+#: am-license-menu.php:448
+#, php-format
+msgid "%s activated. "
+msgstr ""
+
+#: am-license-menu.php:454
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+"Falha na conexão com o servidor da API de chave de licença. Tente mais tarde."
+
+#: am-license-menu.php:552
+msgid ""
+"The API Key could not be deactivated. Use the API Key Deactivation tab to "
+"manually deactivate the API Key before activating a new API Key."
+msgstr ""
+"A chave da API não pôde ser desativada. Use a guia Desativação de Chave de "
+"API para desativar manualmente a Chave de API antes de ativar uma nova Chave "
+"de API."
+
+#: am-license-menu.php:587
+msgid "API Key deactivated. "
+msgstr "API Desativada."
+
+#: am-license-menu.php:660
+msgid "Deactivates an API Key so it can be used on another blog."
+msgstr "Desativa uma Chave da API para que ela possa ser usada em outro blog."
+
+#: am-license-menu.php:1024
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am-license-menu.php:1031
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am-license-menu.php:1038
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: am-license-menu.php:1045
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am-license-menu.php:1052
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: am-license-menu.php:1059
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: am-license-menu.php:1066
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am-license-menu.php:1073
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am-license-menu.php:1080
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am-license-menu.php:1087
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: am-license-menu.php:1094
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+
+#: am-license-menu.php:1101
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: woo-download-credits-platinum.php:91 woo-download-credits-platinum.php:122
+#: woo-download-credits-platinum.php:2224
+#: woo-download-credits-platinum.php:2271
+#: woo-download-credits-platinum.php:2605
+msgid "Woo Credits"
+msgstr "Woo Créditos"
+
+#: woo-download-credits-platinum.php:92
+msgid "Have your customers pay with their Woo Credits balance."
+msgstr "Faça com que seus clientes paguem com seu saldo Woo Créditos."
+
+#: woo-download-credits-platinum.php:112 woo-download-credits-platinum.php:113
+msgid "Enable Woo Credits"
+msgstr "Ativar créditos Woo"
+
+#: woo-download-credits-platinum.php:119
+msgid "Title"
+msgstr "Título"
+
+#: woo-download-credits-platinum.php:121
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "Descrição do método de pagamento que o cliente verá na sua conta."
+
+#: woo-download-credits-platinum.php:126
+msgid "Description"
+msgstr "Descrição"
+
+#: woo-download-credits-platinum.php:128
+msgid "Payment method description that the customer will see on your website."
+msgstr "Descrição do método de pagamento que o cliente verá no seu website."
+
+#: woo-download-credits-platinum.php:129
+msgid "Pay using your Woo Credits."
+msgstr "Pagar com seus créditos Woo."
+
+#: woo-download-credits-platinum.php:137 woo-download-credits-platinum.php:237
+#: woo-download-credits-platinum.php:700 woo-download-credits-platinum.php:1009
+#: woo-download-credits-platinum.php:1034
+#: woo-download-credits-platinum.php:1045
+#: woo-download-credits-platinum.php:1517
+#: woo-download-credits-platinum.php:1740
+#: woo-download-credits-platinum.php:1840
+#: woo-download-credits-platinum.php:1854
+#: woo-download-credits-platinum.php:2597
+msgid "Credits"
+msgstr "Créditos"
+
+#: woo-download-credits-platinum.php:139 woo-download-credits-platinum.php:163
+#: woo-download-credits-platinum.php:205
+msgid "Payment error"
+msgstr "erro de pagamento"
+
+#: woo-download-credits-platinum.php:139
+msgid "You can not purchase"
+msgstr "Você não pode comprar"
+
+#: woo-download-credits-platinum.php:139
+msgid "with"
+msgstr "com"
+
+#: woo-download-credits-platinum.php:139 woo-download-credits-platinum.php:163
+msgid "Please choose another payment method."
+msgstr "Escolha outro método de pagamento."
+
+#: woo-download-credits-platinum.php:139 woo-download-credits-platinum.php:1885
+msgid "IMPORTANT: To successfully purchase"
+msgstr "IMPORTANTE: Para adquirir com êxito"
+
+#: woo-download-credits-platinum.php:139 woo-download-credits-platinum.php:1886
+msgid "please make sure there are"
+msgstr "Por favor, certifique-se de que existem"
+
+#: woo-download-credits-platinum.php:139 woo-download-credits-platinum.php:1886
+msgid "no other products"
+msgstr "Nenhum outro produto"
+
+#: woo-download-credits-platinum.php:139 woo-download-credits-platinum.php:1886
+msgid "in your cart upon checkout"
+msgstr "No seu carrinho de compras"
+
+#: woo-download-credits-platinum.php:163
+msgid "You can not purchase product without"
+msgstr "Você não pode comprar produtos sem"
+
+#: woo-download-credits-platinum.php:163
+msgid "set"
+msgstr "conjunto"
+
+#: woo-download-credits-platinum.php:205
+msgid "Insufficient"
+msgstr "Insuficiente"
+
+#: woo-download-credits-platinum.php:205
+msgid "Please purchase more"
+msgstr "Por favor, compre mais"
+
+#: woo-download-credits-platinum.php:205
+msgid "or use a different payment method."
+msgstr "Ou usar um método de pagamento diferente."
+
+#: woo-download-credits-platinum.php:220
+msgid "System error"
+msgstr "Erro no sistema"
+
+#: woo-download-credits-platinum.php:220
+msgid ""
+"There was an error procesing the payment. Please try another payment method."
+msgstr ""
+"Ocorreu um erro ao processar o pagamento. Tente outro método de pagamento."
+
+#: woo-download-credits-platinum.php:224
+msgid "Payment completed use Download"
+msgstr "Pagamento concluído uso Download"
+
+#: woo-download-credits-platinum.php:239
+msgid "Your Current Balance"
+msgstr "Seu saldo atual"
+
+#: woo-download-credits-platinum.php:239 woo-download-credits-platinum.php:1519
+#: woo-download-credits-platinum.php:1521
+msgid "Buy More"
+msgstr "Compre mais"
+
+#: woo-download-credits-platinum.php:426 woo-download-credits-platinum.php:643
+#: woo-download-credits-platinum.php:831 woo-download-credits-platinum.php:1136
+#: woo-download-credits-platinum.php:1169
+#: woo-download-credits-platinum.php:1207
+#: woo-download-credits-platinum.php:1453
+#: woo-download-credits-platinum.php:1455
+#: woo-download-credits-platinum.php:1462
+#: woo-download-credits-platinum.php:1493
+#: woo-download-credits-platinum.php:1500
+msgid "or"
+msgstr "ou"
+
+#: woo-download-credits-platinum.php:435
+msgid "Cost( in Credits)"
+msgstr "Custo (em Créditos)"
+
+#: woo-download-credits-platinum.php:678
+msgid "View Cart"
+msgstr "Ver carrinho"
+
+#: woo-download-credits-platinum.php:678
+msgid "You cannot add another"
+msgstr "Você não pode adicionar outro"
+
+#: woo-download-credits-platinum.php:678
+msgid "to your cart."
+msgstr "Para o seu carrinho."
+
+#: woo-download-credits-platinum.php:696
+msgid "credit product can not be added"
+msgstr "Produto de crédito não pode ser adicionado"
+
+#: woo-download-credits-platinum.php:703 woo-download-credits-platinum.php:1820
+msgid "Non-credit products have been removed"
+msgstr "Produtos não creditados foram removidos"
+
+#: woo-download-credits-platinum.php:706
+msgid "While buying"
+msgstr "Ao comprar"
+
+#: woo-download-credits-platinum.php:706
+msgid "you cannot buy non-credit products"
+msgstr "Você não pode comprar produtos sem crédito"
+
+#: woo-download-credits-platinum.php:749
+msgid "Customer Credits Details"
+msgstr "Detalhes do Cliente Detalhes"
+
+#: woo-download-credits-platinum.php:753
+msgid "Customer Woo Credits"
+msgstr "Créditos do Cliente Woo"
+
+#: woo-download-credits-platinum.php:759
+msgid "Enter New Credits Balance"
+msgstr "Introduzir novo saldo de créditos"
+
+#: woo-download-credits-platinum.php:762
+msgid "Please enter New Credits Balance to customer account"
+msgstr "Por favor, insira Saldo de novos créditos na conta do cliente"
+
+#: woo-download-credits-platinum.php:903 woo-download-credits-platinum.php:1758
+#: woo-download-credits-platinum.php:1877
+#: woo-download-credits-platinum.php:2768
+msgid "Buy Now"
+msgstr "Compre agora"
+
+#: woo-download-credits-platinum.php:929 woo-download-credits-platinum.php:1037
+#: woo-download-credits-platinum.php:1048
+msgid "Credit"
+msgstr "Crédito"
+
+#: woo-download-credits-platinum.php:934
+msgid "is deleted successfully"
+msgstr "É excluído com êxito"
+
+#: woo-download-credits-platinum.php:939
+msgid "there was some error deleting"
+msgstr "Houve algum erro ao excluir"
+
+#: woo-download-credits-platinum.php:945
+msgid "does not exist"
+msgstr "não existe"
+
+#: woo-download-credits-platinum.php:972
+msgctxt "post type general name"
+msgid "Credits"
+msgstr "Créditos"
+
+#: woo-download-credits-platinum.php:973
+msgctxt "post type singular name"
+msgid "Credit"
+msgstr "Crédito"
+
+#: woo-download-credits-platinum.php:974
+msgctxt "admin menu"
+msgid "Credits"
+msgstr "Créditos"
+
+#: woo-download-credits-platinum.php:975
+msgctxt "add new on admin bar"
+msgid "Credit"
+msgstr "Crédito"
+
+#: woo-download-credits-platinum.php:976
+msgctxt "credit"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: woo-download-credits-platinum.php:977
+msgid "Add New Credit"
+msgstr "Adicionar Novo Crédito"
+
+#: woo-download-credits-platinum.php:978
+msgid "New Credit"
+msgstr "Novo Crédito"
+
+#: woo-download-credits-platinum.php:979
+msgid "Edit Credit"
+msgstr "Editar Crédito"
+
+#: woo-download-credits-platinum.php:980
+msgid "View Credit"
+msgstr "Ver crédito"
+
+#: woo-download-credits-platinum.php:981
+msgid "All Credits"
+msgstr "Todos os créditos"
+
+#: woo-download-credits-platinum.php:982
+msgid "Search Credits"
+msgstr "Pesquisar créditos"
+
+#: woo-download-credits-platinum.php:983
+msgid "Parent Credits:"
+msgstr "Créditos dos pais:"
+
+#: woo-download-credits-platinum.php:984
+msgid "No credits found."
+msgstr "Nenhum crédito encontrado."
+
+#: woo-download-credits-platinum.php:985
+msgid "No credits found in Trash."
+msgstr "Nenhum crédito encontrado na Lixeira."
+
+#: woo-download-credits-platinum.php:1013
+msgid " Remaining"
+msgstr "Remanescente"
+
+#: woo-download-credits-platinum.php:1076
+#: woo-download-credits-platinum.php:1103
+#: woo-download-credits-platinum.php:1105
+#: woo-download-credits-platinum.php:1467
+#: woo-download-credits-platinum.php:1504
+msgid "for"
+msgstr "para"
+
+#: woo-download-credits-platinum.php:1519
+#: woo-download-credits-platinum.php:1845
+msgid "You have"
+msgstr "Você tem"
+
+#: woo-download-credits-platinum.php:1519
+msgid "remaining"
+msgstr "remanescente"
+
+#: woo-download-credits-platinum.php:1746
+#: woo-download-credits-platinum.php:1865
+#: woo-download-credits-platinum.php:2305
+#: woo-download-credits-platinum.php:2668
+msgid "Name"
+msgstr "Nome"
+
+#: woo-download-credits-platinum.php:1748
+#: woo-download-credits-platinum.php:1867
+#: woo-download-credits-platinum.php:2674
+msgid "Price"
+msgstr "Preço"
+
+#: woo-download-credits-platinum.php:1904
+#: woo-download-credits-platinum.php:1969
+msgid "Credit Required For Download "
+msgstr "Crédito necessário para download"
+
+#: woo-download-credits-platinum.php:1907
+msgid "The credits for this product to download."
+msgstr "Os créditos para este produto para download."
+
+#: woo-download-credits-platinum.php:1925
+msgid "Credit Required to Participate "
+msgstr "Crédito necessário para participar"
+
+#: woo-download-credits-platinum.php:1928
+msgid "The credits for Participate."
+msgstr "Os créditos para Participar."
+
+#: woo-download-credits-platinum.php:1955
+msgid "Credits Plan"
+msgstr "Plano de Créditos"
+
+#: woo-download-credits-platinum.php:1958
+msgid "Select credit plan with this subscription."
+msgstr "Selecione o plano de crédito com esta assinatura."
+
+#: woo-download-credits-platinum.php:1972
+msgid "Enter Credit Required For Download here."
+msgstr "Digite o crédito necessário para fazer o download aqui."
+
+#: woo-download-credits-platinum.php:2223
+msgid "Woo Credits Options"
+msgstr "Woo Créditos Opções"
+
+#: woo-download-credits-platinum.php:2226
+#: woo-download-credits-platinum.php:2227
+msgid "Edit Credits"
+msgstr "Editar Créditos"
+
+#: woo-download-credits-platinum.php:2278
+msgid "Manage User Credits"
+msgstr "Gerenciar créditos de usuário"
+
+#: woo-download-credits-platinum.php:2287
+#: woo-download-credits-platinum.php:2288
+msgid "Search"
+msgstr "Pesquisa"
+
+#: woo-download-credits-platinum.php:2302
+msgid "User ID"
+msgstr "ID do usuário"
+
+#: woo-download-credits-platinum.php:2308
+msgid "No. of Credits"
+msgstr "Nº de Créditos"
+
+#: woo-download-credits-platinum.php:2321
+msgid "Number of Users Per Page"
+msgstr "Número de usuários por página"
+
+#: woo-download-credits-platinum.php:2330
+msgid "Update"
+msgstr "Atualizar"
+
+#: woo-download-credits-platinum.php:2618
+msgid "Get API Key"
+msgstr "Obter chave da API"
+
+#: woo-download-credits-platinum.php:2619
+msgid "Activate API Key"
+msgstr "Ativar chave de API"
+
+#: woo-download-credits-platinum.php:2620
+msgid "Manage Renewal"
+msgstr "Gerenciar a Renovação"
+
+#: woo-download-credits-platinum.php:2621
+msgid "Support"
+msgstr "suporte"
+
+#: woo-download-credits-platinum.php:2626
+#: woo-download-credits-platinum.php:2872
+msgid "Click to toggle"
+msgstr "Clique para alternar"
+
+#: woo-download-credits-platinum.php:2629
+msgid "Credit Bundles"
+msgstr "Pacotes de Crédito"
+
+#: woo-download-credits-platinum.php:2630
+msgid "Add New Bundle"
+msgstr "Adicionar novo pacote"
+
+#: woo-download-credits-platinum.php:2655
+#: woo-download-credits-platinum.php:2715
+#: woo-download-credits-platinum.php:2740
+msgid "Remove"
+msgstr "Remover"
+
+#: woo-download-credits-platinum.php:2665
+msgid "Icon"
+msgstr "Ícone"
+
+#: woo-download-credits-platinum.php:2671
+msgid "# of Credits"
+msgstr "# De Créditos"
+
+#: woo-download-credits-platinum.php:2677
+msgid "Expiry Days"
+msgstr "Dias de expiração"
+
+#: woo-download-credits-platinum.php:2680
+msgid "Credit ID"
+msgstr "ID de crédito"
+
+#: woo-download-credits-platinum.php:2749
+msgid "Global Credit Expiry Days"
+msgstr "Dias de expiração de crédito global"
+
+#: woo-download-credits-platinum.php:2750
+msgid "Global Expiry Days"
+msgstr "Dias de Expiração Global"
+
+#: woo-download-credits-platinum.php:2757
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: woo-download-credits-platinum.php:2762
+msgid "you can create credit buy url by using below shortcode replacing"
+msgstr ""
+"Você pode criar url de compra de crédito usando abaixo shortcode substituindo"
+
+#: woo-download-credits-platinum.php:2762
+msgid "with corresponding credit ID from above table"
+msgstr "Com ID de crédito correspondente da tabela acima"
+
+#: woo-download-credits-platinum.php:2765
+msgid "you can also change link text by using"
+msgstr "Você também pode alterar o texto do link usando"
+
+#: woo-download-credits-platinum.php:2765
+msgid "parameter"
+msgstr "parâmetro"
+
+#: woo-download-credits-platinum.php:2791
+msgid "Optional Settings"
+msgstr "Configurações opcionais"
+
+#: woo-download-credits-platinum.php:2792
+msgid ""
+"Woo Credits gives you the ability to run a \"credits only\" store. To "
+"activate a \"credits only\" store, select the two boxes below. The first "
+"will hide all currency prices associated with your WooCommerce products. The "
+"second will hide other payment gateways (PayPal, Stripe, Bank Transfer, "
+"etc), forcing your customers to checkout with their Credits balance (note: "
+"currency gateways will be viewable when they are replenishing or buying "
+"Credits for the first time)."
+msgstr ""
+"Woo Créditos dá-lhe a capacidade de executar um \"créditos apenas\" loja. "
+"Para ativar uma loja de \"apenas créditos\", selecione as duas caixas "
+"abaixo. O primeiro vai esconder todos os preços de moeda associados com seus "
+"produtos WooCommerce. O segundo irá ocultar outros gateways de pagamento "
+"(PayPal, Stripe, Transferência Bancária, etc), forçando seus clientes a "
+"pagar com seu saldo de Créditos (nota: os gateways de moeda serão visíveis "
+"quando eles estão reabastecendo ou comprando Créditos pela primeira vez)."
+
+#: woo-download-credits-platinum.php:2798
+msgid "Hide $ Prices for Credit Products"
+msgstr "Esconder $ preços para produtos de crédito"
+
+#: woo-download-credits-platinum.php:2803
+msgid "Hide Other Payment Gateways"
+msgstr "Ocultar outros gateways de pagamento"
+
+#: woo-download-credits-platinum.php:2811
+msgid "WooCommerce Subscriptions"
+msgstr "WooCommerce Assinatura"
+
+#: woo-download-credits-platinum.php:2818
+msgid "Reset Credits Upon Subscripiton Renewal"
+msgstr "Redefinir créditos após renovação de subscrição"
+
+#: woo-download-credits-platinum.php:2825
+msgid "Manage Labels Here"
+msgstr "Gerenciar etiquetas aqui"
+
+#: woo-download-credits-platinum.php:2839
+msgid "For Credit"
+msgstr "Para Crédito"
+
+#: woo-download-credits-platinum.php:2845
+msgid "For Credits"
+msgstr "Para Créditos"
+
+#: woo-download-credits-platinum.php:2851
+msgid "My Account Label"
+msgstr "Etiqueta da minha conta"
+
+#: woo-download-credits-platinum.php:2858
+msgid "Save Plugin Settings"
+msgstr "Salvar configurações de plug-ins"
+
+#: woo-download-credits-platinum.php:2863
+msgid "Fix Reports"
+msgstr "Corrigir relatórios"
+
+#: woo-download-credits-platinum.php:2873
+msgid "About"
+msgstr "Sobre"
+
+#: woo-download-credits-platinum.php:2875
+msgid "Documentation"
+msgstr "Documentação"
+
+#: woo-download-credits-platinum.php:2876
+msgid "Tutorial Video"
+msgstr "Vídeo Tutorial"
+
+#: woo-download-credits-platinum.php:2877
+msgid "Twitter"
+msgstr "Twitter"
+
+#~ msgid "Download Credits"
+#~ msgstr "Fazer o download de créditos"
+
+#~ msgid "Have your customers pay with their Download Credits balance."
+#~ msgstr ""
+#~ "Faça com que seus clientes paguem com o saldo de Créditos de download."
+
+#~ msgid "Enable Download Credits"
+#~ msgstr "Ativar créditos de download"
+
+#~ msgid "Pay using your Download Credits."
+#~ msgstr "Pague com seus créditos de download."
+
+#~ msgid "You can not purchase  Download"
+#~ msgstr "Você não pode comprar Download"
+
+#~ msgid "with Download"
+#~ msgstr "Com Download"
+
+#~ msgid "IMPORTANT: To successfully purchase Download"
+#~ msgstr "IMPORTANTE: Para adquirir com êxito o Download"
+
+#~ msgid "Customer Download Credits"
+#~ msgstr "Créditos de download do cliente"
+
+#~ msgid "Download Credits."
+#~ msgstr "Fazer o download de créditos."
+
+#~ msgid "Buy Download"
+#~ msgstr "Comprar Download"
+
+#~ msgid "Download Credits Options"
+#~ msgstr "Opções de download de créditos"
+
+#~ msgid "Manage Download Credits Below"
+#~ msgstr "Gerenciar créditos de download abaixo"
+
+#~ msgid "Credit Expiry Days"
+#~ msgstr "Dias de expiração de crédito"
+
+#~ msgid "Add New"
+#~ msgstr "Adicionar novo"
+
+#~ msgid "Credit Buy Url"
+#~ msgstr "URL de Compra de Crédito"
+
+#~ msgid "Settings"
+#~ msgstr "Configurações"
+
+#~ msgid "Hide Other Paymet Gateways"
+#~ msgstr "Ocultar outros gateways do Paymet"
+
+#~ msgid "Reset Credits on Renewal"
+#~ msgstr "Redefinir Créditos em Renovação"
+
+#~ msgid "Save"
+#~ msgstr "Salvar"
+
+#~ msgctxt "mwdcp"
+#~ msgid "Credits"
+#~ msgstr "Créditos"
+
+#~ msgctxt "mwdcp"
+#~ msgid "Buy Download"
+#~ msgstr "Comprar Download"
+
+#~ msgid "Remaining"
+#~ msgstr "Remanescente"

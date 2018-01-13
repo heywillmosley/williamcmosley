@@ -1,0 +1,59 @@
+.form-table{width:100%}
+table#dataTable1{display:none}
+/*.first-row{display:none}*/
+td>label{display:block}
+.wdcp-wrap{padding:0 20px}
+/*div.wrap {background: orange;}
+div#poststuff {background: green;}
+div#post-body-content {background: green !important;}*/
+div.postbox-80 {/*background: orange;*/ padding: 0; margin: 0; width: 80%;float: right;}
+div.postbox-20 {width: 20%; float: left; background: white; background: url('../img/bg-admin.png') top right repeat-y; height: 1400px; }
+#post-body {float:left;margin-right:0;width:100%}
+#post-body-content{float:left;width:100%; background: white; border: 1px solid #ddd;}
+div.inside {padding: 0 !important; margin: 0 !important;}
+#dataTable {width: 100%; background: url('../img/bg-datatable.png') top left repeat-x; padding-left: 7px;}
+#dataTable th {text-align:left; float: left; height: 35px !important;}
+#dataTable td {text-align:left; float: left; }
+
+#dataTable th.woo-credits-icon, #dataTable td.product-thumbnail {width: 10%;}
+
+#dataTable th.woo-credits-bundle-name {width: 25%; /*background: #efefef;*/}
+#dataTable td.woo-credits-bundle-name {width: 25%; /*background: #efefef;*/ padding-top: 16px;}
+#dataTable input.woo-credits-bundle-name {width: 90% !important;}
+
+#dataTable th.woo-credits-no-credits {width: 12%; /*background: green;*/}
+#dataTable td.woo-credits-no-credits {width: 12%; /*background: green;*/ padding-top: 16px;}
+#dataTable input.woo-credits-no-credits {width: 70% !important;}
+#dataTable tr.creditrow input.woo-credits-no-credits {width: 70% !important;}
+
+#dataTable th.woo-credits-price {width: 12%; /*background: #efefef;*/}
+#dataTable td.woo-credits-price {width: 12%; /*background: #efefef;*/ padding-top: 15px;}
+#dataTable input.woo-credits-price {width: 80% !important;}
+#dataTable tr.creditrow input.woo-credits-price {width: 80% !important;}
+
+#dataTable th.woo-credits-expiry {width: 10%; /*background: green;*/}
+#dataTable td.woo-credits-expiry {width: 10%; /*background: green;*/ padding-top: 15px;}
+#dataTable input.woo-credits-expiry {width: 70%;}
+
+#dataTable th.woo-credits-credit-id {width: 10%; /*background: #efefef;*/}
+#dataTable td.woo-credits-credit-id {width: 10%;/*background: #efefef;*/ padding-top: 15px;}
+#dataTable input.woo-credits-credit-id {width: 50%;}
+
+#dataTable td.woo-credits-remove-bundle-button {padding-top: 13px;}
+
+tr.creditrow {border-bottom: 1px solid #888;}
+#save-submit{margin:15px 0 0 10px}
+#add-tier-new{margin:10px 0 15px 10px}
+td.woo-credits-admin-hidden {display: none;}
+.form-table td p.submit{margin:0;padding:0}
+
+ul.woo-credits-admin-submenu{display: block; text-align: center; list-style: none;}
+#poststuff #post-body.columns-2{margin-right:0}
+#wo_tabs .product-thumbnail img{height:64px;width:64px;cursor:pointer}
+.fix_reports_form{clear:both;float:right;margin:-45px 0 0;padding:0}
+label.glabel{font-weight:600;font-size:14px}
+
+.woo-credits-admin-logo {padding: 15px 0; text-align: center;}
+.woo-credits-section-header {background: #f8f8f8; border-bottom: 1px solid #efefef; padding: 0; margin: 0; }
+.woo-credits-section-header p {padding: 0px 15px !important; color: #777;}
+h3.hndle {font-size: 30px !important; }
