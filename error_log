@@ -1,0 +1,2 @@
+[13-Jan-2018 19:07:41 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/startright/public_html/wp-content/plugins/wp-hummingbird/core/modules/class-module-page-caching.php on line 495
+[13-Jan-2018 19:08:01 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/startright/public_html/wp-content/plugins/wp-hummingbird/core/modules/class-module-page-caching.php on line 495
